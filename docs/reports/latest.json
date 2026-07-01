@@ -1,0 +1,83 @@
+{
+  "title": "磷酸铁锂行业早报",
+  "date": "2026-07-01",
+  "status": "ok",
+  "template": "mechanism-report",
+  "summary": "今日磷酸铁锂行业整体平稳，但需关注上游碳酸锂价格波动带来的成本压力，以及下游储能和动力电池领域的需求分化。政策端持续推动行业规范化和回收体系建设，头部企业扩产节奏稳健，但中小企业面临产能出清风险。",
+  "pptx": "reports/2026-07-01.pptx",
+  "latest": "reports/latest.pptx",
+  "sources": [
+    {
+      "name": "中国电池网",
+      "url": "https://www.itdcw.com/",
+      "source_type": "websites",
+      "fetched_at": "2026-07-01T07:52:06.195682+00:00",
+      "raw_excerpt": "中国电池网:锂电池,正极材料,负极材料,电解液,隔膜,铅蓄电池,碱锰电池,燃料电池,动力电池,移动电源,新能源汽车,电动车,BMS,储能,太阳能电池,充电桩,固态电池",
+      "hash": "c8e119a2fff4e0dd",
+      "ok": true
+    },
+    {
+      "name": "证券时报",
+      "url": "https://www.stcn.com/",
+      "source_type": "websites",
+      "fetched_at": "2026-07-01T07:52:21.521952+00:00",
+      "raw_excerpt": "证券时报，证券时报网，由人民日报社主管主办，是证券市场权威信息披露媒体，也是中国资本市场的重要信息披露平台。提供全天候7*24小时财经证券类资讯，内容丰富，包括时报快讯、股市新闻、财经资讯、基金净值、债券、期货、上市公司公告等，为用户提供全方位、最新鲜的财经信息。打造了",
+      "hash": "a72be2be72bf4385",
+      "ok": true
+    },
+    {
+      "name": "界面新闻",
+      "url": "https://www.jiemian.com/",
+      "source_type": "websites",
+      "fetched_at": "2026-07-01T07:52:23.487094+00:00",
+      "raw_excerpt": "界面新闻是中国具有影响力的原创财经新媒体，以财经、商业新闻为核心，布局近40个内容频道，旗下同时拥有正午故事、箭厂视频、歪楼等数个知名新媒体品牌。",
+      "hash": "413416ff21237739",
+      "ok": true
+    },
+    {
+      "name": "工业和信息化部",
+      "url": "https://www.miit.gov.cn/",
+      "source_type": "official_policy",
+      "fetched_at": "2026-07-01T07:52:25.201285+00:00",
+      "raw_excerpt": "政策、规范条件、行业管理口径。",
+      "hash": "bdda2f78e9e0b847",
+      "ok": true
+    },
+    {
+      "name": "国家发展改革委",
+      "url": "https://www.ndrc.gov.cn/",
+      "source_type": "official_policy",
+      "fetched_at": "2026-07-01T07:52:28.417928+00:00",
+      "raw_excerpt": "产业政策、价格机制、储能与新能源政策。",
+      "hash": "364e0b867970d6f9",
+      "ok": true
+    },
+    {
+      "name": "中华人民共和国中央人民政府",
+      "url": "https://www.gov.cn/",
+      "source_type": "official_policy",
+      "fetched_at": "2026-07-01T07:52:29.283383+00:00",
+      "raw_excerpt": "国务院与部委政策汇总入口。",
+      "hash": "4e94555e4cdffb5b",
+      "ok": true
+    },
+    {
+      "name": "生态环境部",
+      "url": "https://www.mee.gov.cn/",
+      "source_type": "official_policy",
+      "fetched_at": "2026-07-01T07:52:30.709360+00:00",
+      "raw_excerpt": "电池回收、固废、环保政策相关。",
+      "hash": "e6fdd37acb5ef3d9",
+      "ok": true
+    },
+    {
+      "name": "万润新能源",
+      "url": "https://www.hbwanrun.com/",
+      "source_type": "competitor",
+      "fetched_at": "2026-07-01T07:52:31.870005+00:00",
+      "raw_excerpt": "湖北万润新能源科技股份有限公司成立于2010年12月，公司主要生产锂离子动力电池和储能电池的正极材料及其前驱体，产品为磷酸铁锂、磷酸铁等，销往宁德时代、比亚迪等国内外知名企业。",
+      "hash": "e4114b3726e5c28a",
+      "ok": true
+    }
+  ]
+}
