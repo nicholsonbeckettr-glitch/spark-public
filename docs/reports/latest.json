@@ -1,17 +1,17 @@
 {
   "title": "磷酸铁锂行业早报",
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "status": "ok",
   "template": "minimal-business-summary",
-  "summary": "磷酸铁锂行业呈现技术突破与产能调整并行态势。多氟多发布同体积容量行业纪录的大圆柱换电方案，技术路线向高能量密度演进；同时，行业扩产出现分化，部分项目叫停，供应格局趋于紧张。政策端，工信部发布动力电池拆解安全国标征求意见，合规风险上升。整体看，技术迭代与政策趋严将加速行业洗牌。",
-  "pptx": "reports/2026-07-02.pptx",
+  "summary": "磷酸铁锂行业呈现分化态势：多氟多发布大圆柱换电方案，技术突破提升体积能量密度；万润新能源等企业产品向高压实、高容量演进。但项目扩产出现一边倒叫停，供应端局部趋紧。政策方面，工信部发布动力电池拆解安全国标征求意见，强化合规要求。整体看，技术迭代加速，但产能扩张趋于理性，需关注供需再平衡。",
+  "pptx": "reports/2026-07-03.pptx",
   "latest": "reports/latest.pptx",
   "sources": [
     {
       "name": "中国电池网",
       "url": "https://www.itdcw.com/news/dczk/06291563622026.html",
       "source_type": "websites",
-      "fetched_at": "2026-07-02T11:18:25.682197+00:00",
+      "fetched_at": "2026-07-03T11:15:54.994793+00:00",
       "raw_excerpt": "从供应格局来看，钠电正极市场真正具备规模化出货能力的企业较少，尚未达到预期产能利用率。随着下半年需求集中释放，预计正极供应紧张态势将进一步显现，局部环节或出现供需缺口。",
       "hash": "70389d3fe52af7e7",
       "ok": true
@@ -20,7 +20,7 @@
       "name": "中国电池网",
       "url": "https://www.itdcw.com/news/chanpinxinwen/06251562M2026.html",
       "source_type": "websites",
-      "fetched_at": "2026-07-02T11:18:27.081007+00:00",
+      "fetched_at": "2026-07-03T11:15:56.277149+00:00",
       "raw_excerpt": "作为新能源材料与锂电领域的龙头企业，多氟多此次推出的两款大圆柱换电模组，既实现了同体积容量的技术突破，也通过通用化设计打通了产业落地的最后一公里。",
       "hash": "06aa7906fcb2b1ab",
       "ok": true
@@ -29,7 +29,7 @@
       "name": "鑫椤锂电",
       "url": "https://www.icbattery.com/",
       "source_type": "websites",
-      "fetched_at": "2026-07-02T11:18:27.841356+00:00",
+      "fetched_at": "2026-07-03T11:15:56.911233+00:00",
       "raw_excerpt": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.icbattery.com'. (_ssl.c:1010)>",
       "hash": "0fe1276a79da0beb",
       "ok": false
@@ -38,7 +38,7 @@
       "name": "高工锂电",
       "url": "https://www.gg-lb.com/",
       "source_type": "websites",
-      "fetched_at": "2026-07-02T11:18:34.177179+00:00",
+      "fetched_at": "2026-07-03T11:16:03.344900+00:00",
       "raw_excerpt": "<urlopen error timed out>",
       "hash": "561301b45b19040b",
       "ok": false
@@ -47,7 +47,7 @@
       "name": "电池中国",
       "url": "https://www.cbea.com/",
       "source_type": "websites",
-      "fetched_at": "2026-07-02T11:18:40.506043+00:00",
+      "fetched_at": "2026-07-03T11:16:09.756336+00:00",
       "raw_excerpt": "<urlopen error timed out>",
       "hash": "d7f6315a4141daa8",
       "ok": false
@@ -56,7 +56,7 @@
       "name": "证券时报",
       "url": "https://xp.stcn.com/index/pdf?id=1199669767&stock_code=920239&type=rm",
       "source_type": "websites",
-      "fetched_at": "2026-07-02T11:18:43.759574+00:00",
+      "fetched_at": "2026-07-03T11:16:12.634067+00:00",
       "raw_excerpt": "查看更多新闻资讯及图解财报。免责声明：本频道竭力保证所提供的证券市场信息准确可靠，但并不担保（无论是明示、默示、法定或其他形式）其准确性和完整性。任何使用方不得就全部或部分使用中的证券市场信息作为依据并对由此而引起的任何损失向我方提出索赔。。广播电视节目制作经营许可证：（粤）字第01703号。信息网络传播视听节目许可证1908317。本网站提供之资料或信息，仅供投资者参考，不构成投资建议。。深圳证券时报社有限公司版权所有，未经书面授权禁止使用。Copyright © 2008-2025 Shenzhen Securities Times Co., Ltd. All Rights Reserved",
       "hash": "58f5f88eb72ddf02",
       "ok": true
@@ -65,7 +65,7 @@
       "name": "界面新闻",
       "url": "https://www.jiemian.com/",
       "source_type": "websites",
-      "fetched_at": "2026-07-02T11:18:47.224572+00:00",
+      "fetched_at": "2026-07-03T11:16:13.989337+00:00",
       "raw_excerpt": "No keyword-matched article found on source front page",
       "hash": "413416ff21237739",
       "ok": false
@@ -74,7 +74,7 @@
       "name": "工业和信息化部",
       "url": "http://www.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_fefca99ac5934ebd905b2232e417e317.html",
       "source_type": "official_policy",
-      "fetched_at": "2026-07-02T11:18:51.318717+00:00",
+      "fetched_at": "2026-07-03T11:16:17.625202+00:00",
       "raw_excerpt": "各省、自治区、直辖市及新疆生产建设兵团工业和信息化、财政主管部门，各金融监管局，有关中央企业：根据《关于进一步完善首台（套）重大技术装备首批次新材料保险补偿政策的意见》（工信部联重装〔2024〕89号）和《首台（套）重大技术装备首批次新材料保险补偿政策实施细则（试行）》（工信厅联重装〔2024〕64号），现组织实施2026年保险补偿政策资格审定和资金申请工作。",
       "hash": "9895fa0576a1fec9",
       "ok": true
@@ -83,7 +83,7 @@
       "name": "工业和信息化部",
       "url": "https://www.miit.gov.cn/gzcy/yjzj/art/2026/art_6ee188a6acf34735a568af7ebdc507b5.html",
       "source_type": "official_policy",
-      "fetched_at": "2026-07-02T11:18:52.188303+00:00",
+      "fetched_at": "2026-07-03T11:16:18.394506+00:00",
       "raw_excerpt": "按照《中华人民共和国标准化法》和《强制性国家标准管理办法》，工业和信息化部装备工业一司组织全国汽车标准化技术委员会开展了《车用动力电池拆解破碎安全要求》等两项强制性国家标准的制修订，已形成征求意见稿，现公开征求社会各界意见。",
       "hash": "0e1df16243db4e23",
       "ok": true
@@ -92,7 +92,7 @@
       "name": "国家发展改革委",
       "url": "https://www.ndrc.gov.cn/",
       "source_type": "official_policy",
-      "fetched_at": "2026-07-02T11:18:52.732534+00:00",
+      "fetched_at": "2026-07-03T11:16:18.912772+00:00",
       "raw_excerpt": "No keyword-matched article found on source front page",
       "hash": "364e0b867970d6f9",
       "ok": false
@@ -101,7 +101,7 @@
       "name": "中华人民共和国中央人民政府",
       "url": "https://www.gov.cn/",
       "source_type": "official_policy",
-      "fetched_at": "2026-07-02T11:18:53.159354+00:00",
+      "fetched_at": "2026-07-03T11:16:19.788325+00:00",
       "raw_excerpt": "No keyword-matched article found on source front page",
       "hash": "4e94555e4cdffb5b",
       "ok": false
@@ -110,7 +110,7 @@
       "name": "生态环境部",
       "url": "https://www.mee.gov.cn/",
       "source_type": "official_policy",
-      "fetched_at": "2026-07-02T11:18:53.702980+00:00",
+      "fetched_at": "2026-07-03T11:16:20.569488+00:00",
       "raw_excerpt": "No keyword-matched article found on source front page",
       "hash": "e6fdd37acb5ef3d9",
       "ok": false
@@ -119,7 +119,7 @@
       "name": "万润新能源",
       "url": "https://www.hbwanrun.com/application_details/1.html",
       "source_type": "competitor",
-      "fetched_at": "2026-07-02T11:18:55.550677+00:00",
+      "fetched_at": "2026-07-03T11:16:21.674418+00:00",
       "raw_excerpt": "LFP 材料形貌。 产品特点：• 高容量 • 高压实 • 能量密度高 • 循环优异。 LFP 材料形貌。",
       "hash": "d5971b6c4592c3b6",
       "ok": true
@@ -128,7 +128,7 @@
       "name": "湖南裕能",
       "url": "https://www.yunengchem.com/",
       "source_type": "competitor",
-      "fetched_at": "2026-07-02T11:18:55.674357+00:00",
+      "fetched_at": "2026-07-03T11:16:21.790711+00:00",
       "raw_excerpt": "HTTP Error 403: Forbidden",
       "hash": "6021a2063b382d72",
       "ok": false
@@ -137,7 +137,7 @@
       "name": "友山科技",
       "url": "https://www.youshan-tech.com/",
       "source_type": "competitor",
-      "fetched_at": "2026-07-02T11:18:55.775165+00:00",
+      "fetched_at": "2026-07-03T11:16:21.817554+00:00",
       "raw_excerpt": "<urlopen error [Errno -2] Name or service not known>",
       "hash": "01dba5a8372b39d9",
       "ok": false
@@ -146,7 +146,7 @@
       "name": "江西升华",
       "url": "https://www.shenghuaxc.com/",
       "source_type": "competitor",
-      "fetched_at": "2026-07-02T11:18:55.877244+00:00",
+      "fetched_at": "2026-07-03T11:16:21.842321+00:00",
       "raw_excerpt": "<urlopen error [Errno -2] Name or service not known>",
       "hash": "f6aba8703e9424a4",
       "ok": false
@@ -155,7 +155,7 @@
       "name": "当升科技",
       "url": "https://www.easpring.com/",
       "source_type": "competitor",
-      "fetched_at": "2026-07-02T11:18:57.022348+00:00",
+      "fetched_at": "2026-07-03T11:16:22.813839+00:00",
       "raw_excerpt": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.easpring.com'. (_ssl.c:1010)>",
       "hash": "0f4714269465f7f6",
       "ok": false
@@ -164,7 +164,7 @@
       "name": "中国磷酸铁锂行业官方政策与限制：磷酸铁锂 政策",
       "url": "apify://data_xplorer/google-news-scraper-fast",
       "source_type": "financial_news",
-      "fetched_at": "2026-07-02T11:18:57.203414+00:00",
+      "fetched_at": "2026-07-03T11:16:23.105015+00:00",
       "raw_excerpt": "Apify news discovery failed: HTTP Error 400: Bad Request",
       "hash": "9018caed7ba3f99d",
       "ok": false
@@ -173,7 +173,7 @@
       "name": "中国磷酸铁锂行业官方政策与限制：动力电池 政策",
       "url": "apify://data_xplorer/google-news-scraper-fast",
       "source_type": "financial_news",
-      "fetched_at": "2026-07-02T11:18:57.379575+00:00",
+      "fetched_at": "2026-07-03T11:16:23.405058+00:00",
       "raw_excerpt": "Apify news discovery failed: HTTP Error 400: Bad Request",
       "hash": "2492b4180e48c37a",
       "ok": false
@@ -182,7 +182,7 @@
       "name": "中国磷酸铁锂行业官方政策与限制：锂离子电池 行业规范",
       "url": "apify://data_xplorer/google-news-scraper-fast",
       "source_type": "financial_news",
-      "fetched_at": "2026-07-02T11:18:57.561717+00:00",
+      "fetched_at": "2026-07-03T11:16:23.670403+00:00",
       "raw_excerpt": "Apify news discovery failed: HTTP Error 400: Bad Request",
       "hash": "b6e69974b9ab6f72",
       "ok": false
@@ -191,7 +191,7 @@
       "name": "中国磷酸铁锂行业官方政策与限制：新能源电池 限制 政策",
       "url": "apify://data_xplorer/google-news-scraper-fast",
       "source_type": "financial_news",
-      "fetched_at": "2026-07-02T11:18:57.840837+00:00",
+      "fetched_at": "2026-07-03T11:16:23.957892+00:00",
       "raw_excerpt": "Apify news discovery failed: HTTP Error 400: Bad Request",
       "hash": "ee2404bc246a57b2",
       "ok": false
@@ -200,7 +200,7 @@
       "name": "中国磷酸铁锂行业官方政策与限制：电池回收 政策",
       "url": "apify://data_xplorer/google-news-scraper-fast",
       "source_type": "financial_news",
-      "fetched_at": "2026-07-02T11:18:57.995612+00:00",
+      "fetched_at": "2026-07-03T11:16:24.201953+00:00",
       "raw_excerpt": "Apify news discovery failed: HTTP Error 400: Bad Request",
       "hash": "d88a29a0d2abc1d0",
       "ok": false
